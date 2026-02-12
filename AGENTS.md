@@ -41,3 +41,6 @@ PRs should include:
 - Screenshots for visual/layout changes.
 - Manual test notes (which URLs were checked).
 - Linked issue/ticket when applicable.
+
+## Additional
+Ignore all .md files in .gitignore
